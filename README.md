@@ -90,6 +90,7 @@ Le backend de l'application est construit avec **Spring Boot** et expose une sé
  3. Créez une branche pour votre fonctionnalité ou correction de bug.
  4. Apportez vos modifications et soumettez un pull request.
 ## Video Demonstration
+ - https://github.com/user-attachments/assets/8c93e125-b839-406d-8c54-7472778e6749
 
 ## License
 Ce projet est sous la licence MIT. Pour plus de détails, veuillez consulter le fichier LICENSE.
